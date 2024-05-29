@@ -8,13 +8,13 @@ Welcome to the Grand Turismo event, a spectacular celebration of automotive exce
 
 **Category**
 
-Participants
-Schedules
-Target Audience
-Media Advertisement
-Cars
-Track Conditions
-Drivers
-Ticket Price
-Official Partners
-Race Results
+1- Participants
+2- Schedules
+3- Target Audience
+4- Media Advertisement
+5- Cars
+6- Track Conditions
+7- Drivers
+8- Ticket Price
+9- Official Partners
+10- Race Results
